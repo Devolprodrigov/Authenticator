@@ -1,6 +1,0 @@
-{
-  "name": "RRV Consultoria - Validador de Documentos de SST",
-  "description": "Portal Oficial de Validação e Autenticidade de Documentos de Segurança e Saúde no Trabalho (ASO, PGR, PCMSO, Treinamentos NRs) da RRV Consultoria.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
